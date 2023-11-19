@@ -1,0 +1,3 @@
+mail,pass,name,type,statususr,status,casename
+carlosrizstst3@gmail.com,12345678,Carlos QA,1,1,200,exitoso
+test12@gmail.com,12345678,Prueba QA,1,1,500,fallido

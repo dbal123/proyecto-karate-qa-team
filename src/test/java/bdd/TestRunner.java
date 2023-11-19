@@ -12,4 +12,5 @@ public class TestRunner {
     Karate testRegister() {
         return Karate.run("registerAuth").relativeTo(getClass());
     }
-}
+
+ }

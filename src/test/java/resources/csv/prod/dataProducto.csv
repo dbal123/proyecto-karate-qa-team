@@ -1,0 +1,4 @@
+cod,name,med,marc,catg,pryce,stck,sts,dsc,caso,status
+TC5038,ALTERNADOR PL200NS,UND,Generico,Repuestos,35.00,48,3,ALTERNADOR PL200NS,exitoso,200
+TC5039,MOTOR ELECT PL200NS,UND,Generico,Repuestos,115.00,18,3,MOTOR ELECT PL200NS,exitoso,200
+TC0002,ALTERNADOR PL200NS,UND,Generico,Repuestos,35.00,48,3,ALTERNADOR PL200NS,fallido,500

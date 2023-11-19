@@ -1,0 +1,11 @@
+{
+  "codigo": "#(cod)",
+  "nombre": "#(name)",
+  "medida": "#(med)",
+  "marca": "#(marc)",
+  "categoria": "#(catg)",
+  "precio": "#(pryce)",
+  "stock": "#(stck)",
+  "estado": "#(sts)",
+  "descripcion": "#(dsc)"
+}
